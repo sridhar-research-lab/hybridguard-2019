@@ -1,0 +1,1 @@
+keytool -alias ud-uncc-mobsec -genkey -v -keystore ud-uncc-mobsec.keystore -keyalg RSA -keysize 2048 -validity 10000
